@@ -32,7 +32,7 @@ print('result', result)
 
 
 #  -- задача 4
-num = 444484444
+num = int(input("ваше число:"))
 max_num = 0
 while num > 0:
     last = num % 10
