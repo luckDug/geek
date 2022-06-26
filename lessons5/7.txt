@@ -1,0 +1,3 @@
+grind 000 10000 5000
+microtech 000 3500 3000
+techsoft 000 3500 3500
